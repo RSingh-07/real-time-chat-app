@@ -1,6 +1,3 @@
-# real-time-chat-app
-A real-time chat application built with the MERN stack and Socket.IO, based on a tutorial by GreatStack. Includes real-time messaging, authentication, and MongoDB backend. Extended with custom features like online user status and UI improvements.
-<br>
 # Real-Time Chat Application
 
 A full-stack real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO. This app allows users to sign up, log in, and chat with each other in real-time without refreshing the page. Messages are stored in MongoDB, and the chat interface updates instantly using WebSocket communication.
